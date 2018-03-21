@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { BrowserRouter as Route, Link } from "react-router-dom";
+import { BrowserRouter as Router, Route, Link } from "react-router-dom";
 import Home from './home';
 import Add_recipe from './add_recipe';
 import { MenuItem, MenuList } from 'material-ui/Menu';
